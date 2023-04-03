@@ -10,7 +10,7 @@ $ dynamodb
 **Step 2:**
 Open another terminal.
 
-$ git clone https://github.com/sanket143/DynamoDB-Lab
+$ git clone https://github.com/chaudharyakshay7777/DynamoDB-Lab
 
 This will create a folder DynamoDB-Lab.
 
